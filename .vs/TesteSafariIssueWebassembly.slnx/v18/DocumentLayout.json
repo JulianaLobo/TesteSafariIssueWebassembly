@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|solutionrelative:pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1115D957-E74E-4E59-B845-D4DE033AF57F}|TesteSafariIssueWebassembly.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|c:\\users\\sousa\\documents\\code stuff\\testesafariissuewebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6785E1-83D7-E701-6492-953938CD81C4}|TesteSafariIssueWebassembly.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,12 +51,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-10T16:17:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-10T15:29:34.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\404.html",
+              "RelativeDocumentMoniker": "wwwroot\\404.html",
+              "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\wwwroot\\404.html",
+              "RelativeToolTip": "wwwroot\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-10T15:29:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-10T14:07:44.577Z",
               "EditorCaption": ""
@@ -57,7 +108,7 @@
               "RelativeDocumentMoniker": "Pages\\Teste.razor",
               "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\Pages\\Teste.razor",
               "RelativeToolTip": "Pages\\Teste.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-10T14:06:11.019Z",
               "EditorCaption": ""
@@ -70,7 +121,7 @@
               "RelativeDocumentMoniker": "Pages\\Home.razor",
               "ToolTip": "C:\\Users\\sousa\\Documents\\Code Stuff\\TesteSafariIssueWebassembly\\Pages\\Home.razor",
               "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-10T14:06:03.837Z",
               "EditorCaption": ""
