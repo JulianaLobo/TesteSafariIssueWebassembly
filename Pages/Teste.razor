@@ -14,11 +14,14 @@
 @* End Main Section *@
 
 <script>
-        document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
         var video = document.getElementById('video-main-home');
-        video.muted = true;
-        video.play().catch(function(e) {
-            console.log('Autoplay blocked:', e);
-        });
-    });
+        if (video) {
+            video.muted = true;
+            video.load();
+            video.play().catch(function(e) {
+                console.log('Autoplay blocked:', e);
+            });
+        }
+    }, 500);
 </script>
